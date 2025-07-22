@@ -5,7 +5,8 @@ Welcome to the **BlinkIT Grocery Dashboard Project** – a comprehensive and vis
 ---
 
 ## 📊 Dashboard Overview
-![BlinkIT Grocery Dashboard](BlinkIT%20Grocery%20Dashboard.png)
+![BlinkIT Grocery Dashboard] <img width="981" height="579" alt="BlinkIT Grocery Dashboard" src="https://github.com/user-attachments/assets/f7ea6a84-0dd9-4e07-bf57-eb6557d3c9dc" />
+
 
 ### 🔹 Key Metrics
 
